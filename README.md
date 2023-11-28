@@ -82,10 +82,10 @@ $ git commit -m “[Feat] commit message”
 
 👨‍👦‍👦 담당 기능 <br/>
 ▶ 그룹 생성, 목록 조회 ,가입, 탈퇴 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;목록 조회 시 검색과 더보기 기능 추가 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가입같은 경우 그룹장의 승인이 있어야 가능 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > 목록 조회 시 검색과 더보기 기능 추가 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > 가입같은 경우 그룹장의 승인이 있어야 가능 <br/>
 ▶ 그룹 추천 및 신고 기능 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;신고 후 관리자 페이지에서 신고 보류 & 승인 가능 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > 신고 후 관리자 페이지에서 신고 보류 & 승인 가능 <br/>
 ▶ 마이 페이지 그룹 부분 담당 <br/>
 ▶ 관리자 기능 그룹 부분 담당 <br/>
 ▶ 공지사항 CRUD <br/> 
